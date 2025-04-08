@@ -1,0 +1,44 @@
+body {
+     font-family: Arial, Sans-Serif;
+     background-color: #2F3FB0;
+     color: #037BFD;
+}
+
+.clearfix:before,
+.clearfix:after {
+     content: "";
+     display: table;
+}
+
+.clearfix:after {
+     clear: both;
+}
+
+a {
+     color: #0067ab;
+     text-decoration: none;
+}
+
+a:hover {
+     text-decoration: underline;
+}
+
+
+.btn-security {
+     background: #037BFD;
+     color: white;
+     border: 1px solid #037BFD;
+}
+
+.btn-security:hover {
+     color: #037BFD;
+     background: white;
+     border: 1px solid #037BFD;
+}
+
+form,
+.white-box {
+     background: white;
+     padding: 30px;
+     border-radius: 10px;
+}

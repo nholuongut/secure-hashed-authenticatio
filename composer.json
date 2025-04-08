@@ -1,0 +1,5 @@
+{
+    "require": {
+        "nholuongut/blake2b": "1.0.*"
+    }
+}
